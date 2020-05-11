@@ -7,16 +7,16 @@ Para ello, veremos una explicación sobre el registro y asignación de perfiles 
   - Explicación de items principales
   - Creación y registro de usuarios al CRM
 
-# Acceso al área admin
+## Acceso al área admin
 
   - Ha recibido un documento en donde tiene las credenciales de acceso. Por seguridad, esa información no ha sido publicada en este documento. Es importante que resguarde ese documento, para que pueda realizar las consultas necesarias.
   
-# Explicación de items principales
+## Explicación de items principales
 
 - En el siguiente video se explica los items principales del área admin: [VIDEO INTRO]
 Para poder ver el video recuerde la **CONTRASEÑA DE VIDEOS** que está en el documento
 
-# Creación y registro de usuarios al CRM
+## Creación y registro de usuarios al CRM
 
 - En el siguiente video se explica los detalles para la creación de usuarios. Es importante destacar que si realiza el acceso por el área de dashboard es necesario realizar la validación que se habla en el video. 
 En cambio, si realizamos el procedimiento como aparece en el vídeo, no hay problema.
