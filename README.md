@@ -33,6 +33,13 @@ Acceso al CRM: http://crm.orglaesperanza.com/
 
 [VIDEO SERVICIO]
 
+En este vídeo encontrarás:
+- Cómo realizar un registro y consulta de PQRS
+- Cómo realizar seguimiento de una PQRS
+- Ingreso de Clientes Prospectos
+- Ingreso de Empresas Prospectos
+- Creación de un Contacto (persona que no es Cliente de la Organización La Esperanza) que puede tener una PQRS
+
 [//]: # ()
 
 [VIDEO INTRO]: <https://vimeo.com/417316579> 
