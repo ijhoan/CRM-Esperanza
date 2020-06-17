@@ -40,6 +40,13 @@ En este vídeo encontrarás:
 - Ingreso de Empresas Prospectos
 - Creación de un Contacto (persona que no es Cliente de la Organización La Esperanza) que puede tener una PQRS
 
+Detalles del Proceso de PQRS:
+
+En este vídeo encontrarás:
+ - El proceso de las PQRS y sus etapas, dentro del sistema.
+ 
+ VIDEO
+
 [//]: # ()
 
 [VIDEO INTRO]: <https://vimeo.com/417316579> 
