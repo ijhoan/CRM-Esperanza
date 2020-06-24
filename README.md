@@ -22,6 +22,11 @@ Para poder ver el video recuerde la **CONTRASEÑA DE VIDEOS** que está en el do
 En cambio, si realizamos el procedimiento como aparece en el vídeo, no hay problema.
 [VIDEO USUARIOS]
 
+## Creación de Departamentos
+
+- En el siguiente video se explica la creación de los departamentos que estructuran la Organización
+[VIDEO DEPARTAMENTOS]
+
 ____________
 
 # Servicio al Cliente
@@ -52,3 +57,4 @@ En este vídeo encontrarás:
 [VIDEO INTRO]: <https://vimeo.com/417316579> 
 [VIDEO USUARIOS]: <https://vimeo.com/417321855>
 [VIDEO SERVICIO]: <https://vimeo.com/417337156>
+[VIDEO DEPARTAMENTOS]: <https://vimeo.com/417337156>
