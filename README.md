@@ -21,12 +21,12 @@ Para poder ver el video recuerde la **CONTRASEÑA DE VIDEOS** que está en el do
 - En el siguiente video se explica los detalles para la creación de usuarios. Es importante destacar que si realiza el acceso por el área de dashboard es necesario realizar la validación que se habla en el video. 
 En cambio, si realizamos el procedimiento como aparece en el vídeo, no hay problema.
 [VIDEO USUARIOS]
-
+Para poder ver el video recuerde la CONTRASEÑA DE VIDEOS que está en el documento
 ## Creación de Departamentos
 
 - En el siguiente video se explica la creación de los departamentos que estructuran la Organización
 [VIDEO DEPARTAMENTOS]
-
+Para poder ver el video recuerde la CONTRASEÑA DE VIDEOS que está en el documento
 ____________
 
 # Servicio al Cliente
