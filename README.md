@@ -21,7 +21,8 @@ Para poder ver el video recuerde la **CONTRASEÑA DE VIDEOS** que está en el do
 - En el siguiente video se explica los detalles para la creación de usuarios. Es importante destacar que si realiza el acceso por el área de dashboard es necesario realizar la validación que se habla en el video. 
 En cambio, si realizamos el procedimiento como aparece en el vídeo, no hay problema.
 [VIDEO USUARIOS]
-Para poder ver el video recuerde la CONTRASEÑA DE VIDEOS que está en el documento
+Para poder ver el video recuerde la CONTRASEÑA DE VIDEOS que está en el documento.
+
 ## Creación de Departamentos
 
 - En el siguiente video se explica la creación de los departamentos que estructuran la Organización
@@ -50,7 +51,13 @@ Detalles del Proceso de PQRS:
 En este vídeo encontrarás:
  - El proceso de las PQRS y sus etapas, dentro del sistema.
  
- VIDEO
+[VIDEO]
+ 
+ ## Orientadores
+ En el siguiente vídeo se encuentra la manera de cómo activar la ayuda de un orientador dentro de una PQRS
+ 
+ [VIDEO DE ORIENTADORES]
+ 
 
 [//]: # ()
 
@@ -58,3 +65,4 @@ En este vídeo encontrarás:
 [VIDEO USUARIOS]: <https://vimeo.com/417321855>
 [VIDEO SERVICIO]: <https://vimeo.com/417337156>
 [VIDEO DEPARTAMENTOS]: <https://vimeo.com/417337156>
+[VIDEO DE ORIENTADORES]: <https://vimeo.com/434913095>
