@@ -57,6 +57,7 @@ En este vídeo encontrarás:
  En el siguiente vídeo se encuentra la manera de cómo activar la ayuda de un orientador dentro de una PQRS
  
  [VIDEO DE ORIENTADORES]
+ [VIDEO DE SOLICITAR AYUDA DE ORIENTADOR]
  
 
 [//]: # ()
@@ -66,3 +67,4 @@ En este vídeo encontrarás:
 [VIDEO SERVICIO]: <https://vimeo.com/417337156>
 [VIDEO DEPARTAMENTOS]: <https://vimeo.com/417337156>
 [VIDEO DE ORIENTADORES]: <https://vimeo.com/434913095>
+[VIDEO DE SOLICITAR AYUDA DE ORIENTADOR]: <https://vimeo.com/435069502>
